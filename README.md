@@ -1,4 +1,4 @@
 # SprintFinalModulo4
-Repositorio del sprint final del módulo 4
-
-https://github.com/LinoCortes/SprintFinalModulo4
+Link del repositorio del Sprint final modulo 4
+Felipe Toro
+https://github.com/Galtor-program/SprintFinalModulo4
